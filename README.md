@@ -5,7 +5,6 @@ Created for a Computer Science AQA A level Non-Exam Assessment. Completed in Feb
 ## Table of Contents
 - [Controls](#Controls)
 - [Rules](#Rules)
-- [Information](#Information)
 
 ## Prerequisites
 - Visual Studio 2019 or Higher
