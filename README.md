@@ -2,7 +2,7 @@
 
 Created for a Computer Science AQA A level Non-Exam Assessment. Completed in February 2023.
 
-## Table of Contents
+## Contents
 - [Controls](#Controls)
 - [Rules](#Rules)
 
