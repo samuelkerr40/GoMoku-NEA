@@ -1,6 +1,6 @@
 # Go-Moku
 
-Created for a Computer Science AQA A level Non-Exam Assessment. Completed in February 2023.
+Created for a Computer Science AQA A level Non-Examined Assessment. Completed in February 2023.
 
 ## Contents
 - [Controls](#Controls)
